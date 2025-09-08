@@ -8,15 +8,15 @@
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
 ### - Edad: 17 años
-### - Hobbies: Componer e interpretar música, leer, investigar, reflexionar, admirar la belleza de las cosas.
+### - Hobbies: Componer e interpretar música, leer, investigar, reflexionar, admirar la belleza de las cosas
 ### - Especialidad de mayor interés: **Señales e Imágenes Biomédicas**
 ### - Rol: Líder
 
 ## 2. Dylan Cruz
 ![IMG_234](https://github.com/user-attachments/assets/ad1d6ca3-d47c-4a6b-bba8-c7f598423b78)
 ### - Edad: 18 años
-### - Hobbies: Escuchar musica, tocar la batería, jugar básquetbol, cocinar y leer.
-### - Especialidad de mayor interés: **Ingeniería Clínica** Deseo mejorar la calidad de los pacientes, también desarrollar dispositivos que aporten al diagnóstico rápido.
+### - Hobbies: Escuchar musica, tocar la batería, jugar básquetbol, cocinar y leer
+### - Especialidad de mayor interés: **Ingeniería Clínica** Deseo mejorar la calidad de los pacientes, también desarrollar dispositivos que aporten al diagnóstico rápido
 ### - Rol: Diseño
 
 ## 3. Fabrizzio Cañari
@@ -35,9 +35,9 @@
 
 ## 5. Adrian Mendoza
 ![IMG_0231](https://github.com/user-attachments/assets/703bf354-23ce-432b-8e84-4b9ed0332768)
-### - Edad: 
-### - Hobbies:
-### - Especialidad de mayor interés:
+### - Edad: 17 años
+### - Hobbies: Jugar fútbol, cocinar, escuchar sobre economía, aprender idiomas (duolingo) y estudiar.
+### - Especialidad de mayor interés: **Ingenieria de tejidos** pq me parece una rama que tiene mucho potencial  y puede llegar a revolucionar el área de salud
 ### - Rol: Administración
 
 ## 6. María Lozano

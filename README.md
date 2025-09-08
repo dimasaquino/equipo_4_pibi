@@ -15,8 +15,8 @@
 ## 2. Dylan Cruz
 ![IMG_234](https://github.com/user-attachments/assets/ad1d6ca3-d47c-4a6b-bba8-c7f598423b78)
 ### - Edad: 18 años
-### - Hobbies: Escuchar musica
-### - Especialidad de mayor interés: 
+### - Hobbies: Escuchar musica, tocar la batería, jugar básquetbol, cocinar y leer.
+### - Especialidad de mayor interés: **Ingeniería Clínica** Deseo mejorar la calidad de los pacientes, también desarrollar dispositivos que aporten al diagnóstico rápido.
 ### - Rol: Diseño
 
 ## 3. Fabrizzio Cañari

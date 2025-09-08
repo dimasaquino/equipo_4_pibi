@@ -15,7 +15,7 @@
 ## 2. Dylan Cruz
 ![IMG_234](https://github.com/user-attachments/assets/ad1d6ca3-d47c-4a6b-bba8-c7f598423b78)
 ### - Edad: 18 años
-### - Hobbies:
+### - Hobbies: Escuchar musica
 ### - Especialidad de mayor interés: 
 ### - Rol: Diseño
 

@@ -7,41 +7,41 @@
 
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
-### * Edad: 17 años
-### * Hobbies: Componer e interpretar música, leer, investigar, reflexionar, admirar la belleza de las cosas.
-### * Especialidad de mayor interés: **Señales e Imágenes Biomédicas**
-### * Rol: Líder
+### - Edad: 17 años
+### - Hobbies: Componer e interpretar música, leer, investigar, reflexionar, admirar la belleza de las cosas.
+### - Especialidad de mayor interés: **Señales e Imágenes Biomédicas**
+### - Rol: Líder
 
 ## 2. Dylan Cruz
 ![IMG_234](https://github.com/user-attachments/assets/ad1d6ca3-d47c-4a6b-bba8-c7f598423b78)
-### * Edad: 18 años
-### * Hobbies:
-### * Especialidad de mayor interés: 
-### * Rol: Diseño
+### - Edad: 18 años
+### - Hobbies:
+### - Especialidad de mayor interés: 
+### - Rol: Diseño
 
 ## 3. Fabrizzio Cañari
 ![IMG_333](https://github.com/user-attachments/assets/e2c1dec1-0e2f-430c-87d0-684a4d2aca4e)
-### * Edad: 17 años
-### * Hobbies: Leer, cocinar, tocar el violín, mirar películas
-### * Especialidad de mayor interés: **Biomecánica y Rehabilitación**
-### * Rol: Programación
+### - Edad: 17 años
+### - Hobbies: Leer, cocinar, tocar el violín, mirar películas
+### - Especialidad de mayor interés: **Biomecánica y Rehabilitación**
+### - Rol: Programación
 
 ## 4. Luz Inocente
 ![IMG_0473](https://github.com/user-attachments/assets/6966386f-061e-4867-a5ad-7e2194940006)
-### * Edad: 17 años
-### * Hobbies: Escuchar música, ver películas, cocinar postres, leer, pintar
-### * Especialidad de mayor interés: **Ingeniería de Tejidos**
-### * Rol: Investigación
+### - Edad: 17 años
+### - Hobbies: Escuchar música, ver películas, cocinar postres, leer, pintar
+### - Especialidad de mayor interés: **Ingeniería de Tejidos**
+### - Rol: Investigación
 
 ## 5. Adrian Mendoza
 ![IMG_0231](https://github.com/user-attachments/assets/703bf354-23ce-432b-8e84-4b9ed0332768)
-### * Edad: 
-### * Hobbies:
-### * Especialidad de mayor interés:
-### * Rol: Administración
+### - Edad: 
+### - Hobbies:
+### - Especialidad de mayor interés:
+### - Rol: Administración
 
 ## 6. María Lozano
 
-### * Edad:
-### * Hobbies:
-### * Especialidad de mayor interés: Creatividad
+### - Edad:
+### - Hobbies:
+### - Especialidad de mayor interés: Creatividad

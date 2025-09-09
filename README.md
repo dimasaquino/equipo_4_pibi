@@ -7,7 +7,7 @@
 
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
-### - Edad: 17 años
+- **Edad**: 17 años
 ### - Hobbies: Componer e interpretar música, leer, investigar, reflexionar, admirar la belleza de las cosas
 ### - Especialidad de mayor interés: **Señales e Imágenes Biomédicas**
 ### - Rol: Líder
@@ -42,7 +42,7 @@
 
 ## 6. María Lozano
 ![IMG111](https://github.com/user-attachments/assets/bc96736d-ed9e-4735-91c7-d8ebc04bda74)
-### - Edad: 
+### - Edad: 18 años
 ### - Hobbies: La alegría, la música, la pastelería, los idiomas y el voluntariado social..
 ### - Especialidad de mayor interés: **Biomecánica y Rehabilitación**
 ### - Rol: Creatividad

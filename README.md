@@ -4,10 +4,10 @@
 # DESCRIPCIÓN DEL GRUPO
 ###### Somos estudiantes de Ingeniería Biomédica de 2do ciclo desarrollando un proyecto grupal para nuestro curso de "Procesos de Innovación en Bioingeniería", realmente tenemos entusiasmo por aprender más de ello e ir innovando más adelante dentro del campo tecnológico del país.
 
-# INTEGREANTES DEL GRUPO
+# INTEGRANTES DEL GRUPO
 ![IMG_222](https://github.com/user-attachments/assets/b2d97bee-323e-4512-b6c2-34f75565f0f0)
 
-# DESCRIPCIÓN INTEGRANTES DEL GRUPO
+# DESCRIPCIÓN MIEMBROS DEL GRUPO
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
 - **Edad**: 17 años

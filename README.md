@@ -41,7 +41,8 @@
 ### - Rol: Administración
 
 ## 6. María Lozano
-
-### - Edad:
-### - Hobbies:
-### - Especialidad de mayor interés: Creatividad
+![IMG111](https://github.com/user-attachments/assets/bc96736d-ed9e-4735-91c7-d8ebc04bda74)
+### - Edad: 
+### - Hobbies: La alegría, la música, la pastelería, los idiomas y el voluntariado social..
+### - Especialidad de mayor interés: **Biomecánica y Rehabilitación**
+### - Rol: Creatividad

@@ -1,9 +1,13 @@
-# EQUIPO 4 PIBI
+# GRUPO 4
 ![Presentation](https://github.com/user-attachments/assets/9373c22e-0b99-4679-b615-a6c909aa9de7)
+
+# DESCRIPCIÓN DEL GRUPO
 ###### Somos estudiantes de Ingeniería Biomédica de 2do ciclo desarrollando un proyecto grupal para nuestro curso de "Procesos de Innovación en Bioingeniería", realmente tenemos entusiasmo por aprender más de ello e ir innovando más adelante dentro del campo tecnológico del país.
 
--  Nuestro grupo está conformado por: 
+# INTEGREANTES DEL GRUPO
 ![IMG_222](https://github.com/user-attachments/assets/b2d97bee-323e-4512-b6c2-34f75565f0f0)
+
+# DESCRIPCIÓN INTEGRANTES DEL GRUPO
 
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
@@ -46,3 +50,6 @@
 - **Hobbies**: La alegría, la música, la pastelería, los idiomas y el voluntariado social
 - **Especialidad de mayor interés**: **Biomecánica y Rehabilitación** Me interesa poder ayudar a las demás personas con discapacidades a que puedan desarrrollar de una mejor manera sus vidas, con derecho a una vida digna y menores restricciones para vivirla.
 - **Rol**: Creatividad
+
+# Gracias por visitar nuestro repositorio
+Esperamos haya sido útil esta información para tener mayor conocimiento sobre los integrantes de este equipo, quienes como estudiantes esperan más adelante poder contribuir con un mejor desarrollo de la tecnología médica dentro de todos los rincones del país.

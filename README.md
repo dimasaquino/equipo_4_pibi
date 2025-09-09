@@ -26,7 +26,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP - UPCH cursando el 2do ciclo y 
 ![IMG_333](https://github.com/user-attachments/assets/e2c1dec1-0e2f-430c-87d0-684a4d2aca4e)
 - **Edad**: 17 años
 - **Hobbies**: Leer, cocinar, tocar el violín y mirar películas
-- **Especialidad de mayor interés**: **Biomecánica y Rehabilitación** Quiero ayudar a las demás personas para que tengan mejores vidas dentro de lo posible
+- **Especialidad de mayor interés**: **Biomecánica y Rehabilitación** - Quiero ayudar a las demás personas para que tengan mejores vidas dentro de lo posible
 - **Rol**: Programación
 
 ## 4. Luz Inocente

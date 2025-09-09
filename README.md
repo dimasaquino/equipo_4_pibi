@@ -12,7 +12,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP - UPCH cursando el 2do ciclo y 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
 - **Edad**: 17 años
 - **Hobbies**: Componer e interpretar música, leer, investigar, reflexionar y admirar la belleza de nuestra existencia
-- **Especialidad de mayor interés**: **Señales e Imágenes Biomédicas** Anhelo poder desarrollar equipos "Made in Perú" que puedan prevenir enfermedades crónicas y ayuden a tener un diagnóstico más rápido, eficaz y seguro para todas las personas que lo necesiten.
+- **Especialidad de mayor interés**: **Señales e Imágenes Biomédicas** Anhelo poder desarrollar equipos *Made in Perú* que puedan prevenir enfermedades crónicas y ayuden a tener un diagnóstico más rápido, eficaz y seguro para todas las personas que lo necesiten.
 - **Rol**: Líder
 
 ## 2. Dylan Cruz

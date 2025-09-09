@@ -36,7 +36,7 @@
 ## 5. Adrian Mendoza
 ![IMG_0231](https://github.com/user-attachments/assets/703bf354-23ce-432b-8e84-4b9ed0332768)
 - **Edad**: 17 años
-- **Hobbies**: Jugar fútbol, cocinar, escuchar sobre economía, aprender idiomas (duolingo) y estudiar.
+- **Hobbies**: Jugar fútbol, cocinar, escuchar sobre economía, aprender idiomas (duolingo) y estudiar
 - **Especialidad de mayor interés**: **Ingenieria de tejidos** Considero que es una rama que posee mucho potencial y puede llegar a revolucionar el área de salud en el Perú, contribuyendo a un mejor desarrollo del país.
 - **Rol**: Administración
 

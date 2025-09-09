@@ -45,7 +45,7 @@ Somos estudiantes de Ingeniería Biomédica PUCP - UPCH cursando el 2do ciclo y 
 
 ## 6. María Lozano
 ![IMG111](https://github.com/user-attachments/assets/bc96736d-ed9e-4735-91c7-d8ebc04bda74)
-- **Edad**: 18 años
+- **Edad**: 19 años
 - **Hobbies**: La alegría, la música, la pastelería, los idiomas y el voluntariado social
 - **Especialidad de mayor interés**: **Biomecánica y Rehabilitación** Me interesa poder ayudar a las demás personas con discapacidades a que puedan desarrrollar de una mejor manera sus vidas, con derecho a una vida digna y menores restricciones para vivirla.
 - **Rol**: Creatividad

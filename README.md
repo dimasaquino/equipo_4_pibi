@@ -8,7 +8,6 @@
 ![IMG_222](https://github.com/user-attachments/assets/b2d97bee-323e-4512-b6c2-34f75565f0f0)
 
 # DESCRIPCIÓN INTEGRANTES DEL GRUPO
-
 ## 1. Dimas Aquino 
 ![IMG_0123](https://github.com/user-attachments/assets/358e31d8-5738-4d93-832c-4331e8b920a3)
 - **Edad**: 17 años
